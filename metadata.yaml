@@ -1,0 +1,45 @@
+_repo: The-Surprises-of-Life_40618
+_version: 0.1.0
+alternative_title: Aux embuscades de la vie. English
+contributor:
+  translator:
+    agent_name: Hall, Grace
+    gutenberg_agent_id: '40733'
+    url: http://www.gutenberg.org/2009/agents/40733
+covers:
+- cover_type: archival
+  image_path: 40618-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clemenceau, Georges
+    aliases:
+    - Clemenceau, Georges Eugène Benjamin
+    - Clemenceau, Georges Eugene Benjamin
+    birthdate: 1841
+    deathdate: 1929
+    gutenberg_agent_id: '40732'
+    url: http://www.gutenberg.org/2009/agents/40732
+    wikipedia: https://en.wikipedia.org/wiki/Georges_Clemenceau
+description: ''
+gutenberg_issued: '2012-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+tableOfContents: Mokoubamba's fetish -- A descendant of Timon -- Malus vicinus --
+  Aunt Rosalie's inheritance -- Gideon in his grave -- Simon, son of Simon -- At the
+  foot of the cross -- Evil beneficence -- A mad thinker -- Better than stealing --
+  The gray fox -- The adventure of my curé -- Master Baptist, judge -- The bullfinch
+  and the maker of wooden shoes -- About nests -- A domestic drama -- Six cents --
+  Flower o' the wheat -- Jean Piot's feast -- The treasure of St. Bartholenew -- A
+  happy union -- A well-assorted couple -- Lovers in Florence -- A hunting accident
+  -- Giambolo.
+title: The Surprises of Life
+url: http://www.gutenberg.org/ebooks/40618
